@@ -47,8 +47,9 @@ To understand:
 
 ## Dashboard Preview
 
-![Dashboard 1](images/dashboard_1.png)
-![Dashboard 2](images/dashboard_2.png)
+![Dashboard 1](images/Dashboard%201.png)
+
+![Dashboard 2](images/Dashboard%202.png)
 
 ## Files Included
 
